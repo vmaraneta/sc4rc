@@ -60,7 +60,7 @@ Topics covered in this conference will include (but are not limited to!):
 				<header class="major">
 					<h3>Call for submissions</h3>
 				</header>
-				<p>We invite researchers, computing professionals, sustainability practitioners, and policy makers to submit abstracts to present their work at the conference through oral presentations, posters and/or short interactive sessions on a topic of their choice. <b> Deadline for abstract submissions: 27/02/2026.</b> <br> <i> Note there will be no formal proceedings for this first edition of SC4RC 2026. Please feel free to present published research, or work that will be submitted for publication elsewhere. The conference output will be compiled and published as a position paper co-authored by the conference participants.</i></p>
+				<p>We invite researchers, computing professionals, sustainability practitioners, and policy makers to submit abstracts to present their work at the conference through oral presentations, posters and/or short interactive sessions on a topic of their choice. <b> The main call for abstracts have closed, but we will continue to consider talks and sessions proposals on a rolling basis until we’ve finalised the programme. Any late-breaking ideas? Feel free to submit an abstract below! </b> <br> <i> Note there will be no formal proceedings for this first edition of SC4RC 2026. Please feel free to present published research, or work that will be submitted for publication elsewhere. The conference output will be compiled and published as a position paper co-authored by the conference participants.</i></p>
 
 				
 
