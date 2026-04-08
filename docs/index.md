@@ -29,6 +29,8 @@ Topics covered in this conference will include (but are not limited to!):
 - general and field-specific best practices, and
 - changing user behaviour and incentivising sustainable computing practices (addressing e.g. external drivers).
 
+We are excited to bring together various experts across multiple discplines working on sustainable computing, including [Michael Sparks](https://www.software.ac.uk/fellowship-programme/michael-sparks), [Wim Vanderbauwhede](https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/), [Ben van Werkhoven](https://www.universiteitleiden.nl/en/staffmembers/ben-van-werkhoven#tab-1), [Raghavendra Selvan](https://raghavian.github.io/), [Joseph Walton](https://profiles.sussex.ac.uk/p460555-joseph-walton), and [Jeremy Cohen](https://profiles.imperial.ac.uk/jeremy.cohen). Stay tuned for more updates!
+
 <div class="box">
 	Any questions? You can reach out to us at <a href="mailto:info@sc4rc.org">info@sc4rc.org</a>
 </div>
@@ -44,7 +46,7 @@ Topics covered in this conference will include (but are not limited to!):
 				<header class="major">
 					<h3>Registration</h3>
 				</header>
-				<p>Registration is now open until 10 April 2026. Get your early-bird tickets for a discounted rate only until 27 February 2026.</p>
+				<p>Registration is now open until 15 April 2026 17:00 CET.</p>
 				<ul class="actions">
 					<li><a href="https://indico.cern.ch/event/1526482/page/38180-registration-info" class="button">See registration details</a></li>
 				</ul>
